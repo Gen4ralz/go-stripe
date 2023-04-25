@@ -11,7 +11,7 @@ import (
 )
 
 const version = "1.0.0"
-const cssVersion = "1"
+const CSSVersion = "1"
 
 type config struct {
 	port 	int
